@@ -1,0 +1,8 @@
+streamlit
+SpeechRecognition
+gTTS
+pyttsx3
+pydub
+sounddevice
+numpy
+requests

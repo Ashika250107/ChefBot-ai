@@ -1,0 +1,99 @@
+[
+  {
+    "name": "Tomato Pasta",
+    "ingredients": ["tomato", "pasta", "salt", "olive oil", "garlic"],
+    "steps": [
+      "Boil pasta for 10 minutes and drain it.",
+      "Heat olive oil in a pan and add chopped garlic.",
+      "Add crushed tomatoes and cook for 5 minutes.",
+      "Mix pasta with the sauce and add salt to taste.",
+      "Serve hot with grated cheese."
+    ],
+    "time_minutes": 20,
+    "type": "impress"
+  },
+  {
+    "name": "Egg Sandwich",
+    "ingredients": ["egg", "bread", "butter", "salt", "pepper"],
+    "steps": [
+      "Toast the bread slices with butter.",
+      "Fry the egg with salt and pepper.",
+      "Place the fried egg between two bread slices.",
+      "Cut in half and serve warm."
+    ],
+    "time_minutes": 10,
+    "type": "quick"
+  },
+  {
+    "name": "Veg Fried Rice",
+    "ingredients": ["rice", "carrot", "capsicum", "soy sauce", "salt"],
+    "steps": [
+      "Cook rice and let it cool.",
+      "Chop all vegetables finely.",
+      "Stir-fry veggies in a pan with soy sauce and salt.",
+      "Add rice and mix well.",
+      "Serve hot with ketchup."
+    ],
+    "time_minutes": 25,
+    "type": "quick"
+  },
+  {
+    "name": "Masala Tea",
+    "ingredients": ["tea leaves", "milk", "sugar", "ginger", "cardamom"],
+    "steps": [
+      "Boil water and add crushed ginger and cardamom.",
+      "Add tea leaves and boil for 2 minutes.",
+      "Pour milk and sugar, simmer for another 2 minutes.",
+      "Strain into cups and serve hot."
+    ],
+    "time_minutes": 7,
+    "type": "quick"
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "ingredients": ["paneer", "tomato", "butter", "cream", "onion"],
+    "steps": [
+      "Saute onions and tomatoes in butter until soft.",
+      "Grind them into a paste and cook with spices.",
+      "Add paneer cubes and simmer for 5 minutes.",
+      "Top with cream and serve with naan."
+    ],
+    "time_minutes": 30,
+    "type": "impress"
+  },
+  {
+    "name": "Chocolate Mug Cake",
+    "ingredients": ["flour", "cocoa powder", "milk", "sugar", "baking powder"],
+    "steps": [
+      "Mix all ingredients in a microwave-safe mug.",
+      "Microwave for 90 seconds.",
+      "Let it cool slightly and enjoy."
+    ],
+    "time_minutes": 5,
+    "type": "quick"
+  },
+  {
+    "name": "Lemon Rice",
+    "ingredients": ["rice", "lemon", "mustard seeds", "turmeric", "salt"],
+    "steps": [
+      "Cook rice and let it cool.",
+      "Heat oil and add mustard seeds and turmeric.",
+      "Add cooked rice, lemon juice, and salt.",
+      "Mix well and serve."
+    ],
+    "time_minutes": 10,
+    "type": "quick"
+  },
+  {
+    "name": "Aloo Paratha",
+    "ingredients": ["potato", "flour", "salt", "ghee", "chili"],
+    "steps": [
+      "Boil and mash potatoes with spices.",
+      "Make dough from flour and water.",
+      "Stuff potato filling into dough balls and roll out.",
+      "Cook on tawa with ghee until golden brown."
+    ],
+    "time_minutes": 25,
+    "type": "impress"
+  }
+]
